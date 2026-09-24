@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "Friday AI Assistant",
+  "short_name": "Friday AI",
+  "description": "Real-time, voice-to-voice AI assistant with a witty, confident, and sassy persona powered by Gemini Live.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#020108",
+  "background_color": "#020108",
+  "categories": ["utilities", "entertainment", "productivity"],
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Friday AI Assistant",
+  "description": "Real-time, voice-to-voice AI assistant with a witty, confident, and sassy persona powered by Gemini Live.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
